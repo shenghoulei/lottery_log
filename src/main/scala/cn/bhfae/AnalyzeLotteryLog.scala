@@ -89,7 +89,6 @@ object AnalyzeLotteryLog {
 		val info = "{" + information.split("\\{").last
 		info
 	}
-
 	/**
 	  *  用指定的编码方式把数据追加到数据库
 	  *
